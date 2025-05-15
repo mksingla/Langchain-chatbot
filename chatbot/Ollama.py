@@ -1,5 +1,4 @@
-#LANGCHAIN_API_KEY="lsv2_pt_0ff92976b29dddddddddddddddddd2db9ed59"
-#OPENAI_API_KEY="sk-proj-1akat7mxpZpP2ddddddddddddddddddkF91s1"
+
 #LANGCHAIN_PROJECT="Chatbot"
 
 from langchain_openai import ChatOpenAI
